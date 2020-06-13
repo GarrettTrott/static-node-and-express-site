@@ -2,47 +2,52 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Random Quote Generator",
+      "description": "Basic Webpage that randomly generates a quote and background color when the button is pushed or automatically after 20 seconds.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://garretttrott.github.io/Random-Quote-Generator/",
+      "github_link": "https://github.com/GarrettTrott/Random-Quote-Generator",
       "image_urls": []
     },
     {
       "id": 1,
-      "project_name": "",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "List Pagination and Filtering",
+      "description": "Basic search webpage that filters results and divides the search results into pages of ten students.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://garretttrott.github.io/List-Pagination-and-Filtering/",
+      "github_link": "https://github.com/GarrettTrott/List-Pagination-and-Filtering",
       "image_urls": []
     },
     {
       "id": 2,
-      "project_name": "",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Interactive Form",
+      "description": "A markup form that validates input fields in real time using regex and jQuery.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Regex"],
+      "live_link": "https://garretttrott.github.io/Interactive-form/",
+      "github_link": "https://garretttrott.github.io/Interactive-form/",
       "image_urls": []
     },
     {
       "id": 3,
-      "project_name": "",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Phrase Hunter",
+      "description": "A simple phrase guessing game using object oriented programming.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://garretttrott.github.io/Phrase-Hunter/",
+      "github_link": "https://github.com/GarrettTrott/Phrase-Hunter",
       "image_urls": []
     },
     {
       "id": 4,
-      "project_name": "",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
-      "github_link": "",
+      "project_name": "Employee Directory API",
+      "description": "A website that generates a random directory of 12 people from the Random User Generator API. Employees can be searched and selected to access detailed info about each randomly generated employee.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Random User Generator API"
+      ],
+      "live_link": "https://garretttrott.github.io/employee-directory-public-api/",
+      "github_link": "https://github.com/GarrettTrott/employee-directory-public-api",
       "image_urls": []
     }
   ]
