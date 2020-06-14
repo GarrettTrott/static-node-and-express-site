@@ -7,7 +7,11 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://garretttrott.github.io/Random-Quote-Generator/",
       "github_link": "https://github.com/GarrettTrott/Random-Quote-Generator",
-      "image_urls": []
+      "image_urls": [
+        "static/images/Random_Quotes_m.png",
+        "static/images/Random_Quotes_L1.png",
+        "static/images/Random_Quotes_L2.png"
+      ]
     },
     {
       "id": 1,
@@ -16,7 +20,11 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://garretttrott.github.io/List-Pagination-and-Filtering/",
       "github_link": "https://github.com/GarrettTrott/List-Pagination-and-Filtering",
-      "image_urls": []
+      "image_urls": [
+        "static/images/List_Pagation_m .png",
+        "static/images/List_Pagation_L1 .png",
+        "static/images/List_Pagation_L2 .png"
+      ]
     },
     {
       "id": 2,
@@ -25,7 +33,11 @@
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Regex"],
       "live_link": "https://garretttrott.github.io/Interactive-form/",
       "github_link": "https://garretttrott.github.io/Interactive-form/",
-      "image_urls": []
+      "image_urls": [
+        "static/images/Interactive_Form_m.png",
+        "static/images/Interactive_Form_L1.png",
+        "static/images/Interactive_Form_L2.png"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +46,11 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://garretttrott.github.io/Phrase-Hunter/",
       "github_link": "https://github.com/GarrettTrott/Phrase-Hunter",
-      "image_urls": []
+      "image_urls": [
+        "static/images/Phrase_hunter_m.png",
+        "static/images/Phrase_hunter_L1.png",
+        "static/images/Phrase_hunter_L2.png"
+      ]
     },
     {
       "id": 4,
@@ -48,7 +64,11 @@
       ],
       "live_link": "https://garretttrott.github.io/employee-directory-public-api/",
       "github_link": "https://github.com/GarrettTrott/employee-directory-public-api",
-      "image_urls": []
+      "image_urls": [
+        "static/images/Employee_Directory_m.png",
+        "static/images/Employee_Directory_L1.png",
+        "static/images/Employee_Directory_L2.png"
+      ]
     }
   ]
 }
