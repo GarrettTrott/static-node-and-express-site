@@ -16,7 +16,15 @@ app.get("/about", (req, res) => {
   res.render("about", { projects });
 });
 
-app.get("/project");
+app.get("/project/:id", (req, res) => {
+  const projectId = req.params.id;
+  const project = projects.find(({ id }) => id === +projectId);
+  if (project) {
+    res.render("project", { project });
+  } else {
+    res.sendStatus(404);
+  }
+});
 
 app.listen(3000, () => {
   console.log("the application is running on localhost:3000!");
