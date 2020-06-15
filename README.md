@@ -1,4 +1,4 @@
-# My Portfolio - Node & Express
+# My Portfolio - Static Node & Express
 
 A portfolio site demonstrating my recent projects using node and express to dynamically serve requests and routing.
 
