@@ -9,8 +9,9 @@ A portfolio site demonstrating my recent projects using node and express to dyna
 ### Installing
 
 - Clone project
-- In the console run `npm i` to install dependencies
+- In the console run `npm install` to install dependencies
 - `npm start` to start server
+- Go to http://localhost:3000/
 
 ## Built With
 
@@ -19,9 +20,11 @@ A portfolio site demonstrating my recent projects using node and express to dyna
 - [Pug](https://pugjs.org/api/getting-started.html)
 - JavaScript
 
-## Added CSS & HTML
+## Changed CSS
 
--
+- Font to Fira Sands
+- Sidebar background and main text color
+- Button box shadow, background color, and transition.
 
 ## Tested on
 
