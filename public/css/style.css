@@ -23,7 +23,7 @@ h6 {
 
 p {
   font-size: 15px;
-  color: #666;
+  color: #061826;
 }
 
 .round {
@@ -35,11 +35,11 @@ p {
 }
 
 .button {
-  background-color: #333;
+  background-color: #007ea7;
 }
 
 .button:hover {
-  background-color: #111;
+  background-color: #00a8e8;
 }
 
 a {
@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-  color: #111;
+  color: #0a8e81;
 }
 
 .image {
@@ -62,7 +62,7 @@ a:hover {
 
 .portfolio-me {
   padding: 20px;
-  background: #121213;
+  background: #007ea7;
   color: #fff;
   box-shadow: none !important;
 }
